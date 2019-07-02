@@ -2,7 +2,7 @@
 
 ## Description
 
-These are the vpython assignments for **NTU_General_physics** class.  
+These are the vpython assignments for **NTU_General_physics** course.  
 This repository contains the *implementation codes* and *problem description* in each directory.
 
 ### [Assignment3](https://github.com/juichiehchang/NTU_General_Physics2016/tree/master/assignment3)
